@@ -1,5 +1,9 @@
 package test;
 
+/*
+ * Factorial test
+ */
+
 public class Factorial {
 	
 	int countFact (final int num) {	
